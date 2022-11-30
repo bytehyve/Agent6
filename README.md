@@ -6,4 +6,4 @@ All the sound effects are originally from https://freesound.org/, altough modifi
 
 Keep in mind this was a gamejam project. Some scripts like the "PlayerController" are not refactorized and thus very unreadable.
 
-You can find the game at: 
+You can find the game at: https://jaimejaime.itch.io/agent-no-6
